@@ -1,0 +1,16 @@
+image: Ubuntu2004  # образ для сборки
+
+stack: jdk 11  # версия JDK
+
+branches:
+  only:
+    - master  # ветка git
+
+build: off  # будем использовать свой скрипт сборки
+
+install:
+
+  - chmod +x gradlew
+
+build_script:
+  - ./gradlew test --info  # запускаем тест, флаг --info позволяет выводить больше информации
