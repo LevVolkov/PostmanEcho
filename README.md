@@ -7,19 +7,19 @@
 
 Первые две задачи этого занятия нужно делать в одном репозитории.
 
-**Важно**: если у вас что-то не получилось, то оформляйте issue [по установленным правилам](../report-requirements.md).
+**Важно**: если у вас что-то не получилось, то оформляйте issue [по установленным правилам](https://github.com/netology-code/aqa-homeworks/blob/master/report-requirements.md).
 
 **Важно**: не делайте ДЗ всех занятий в одном репозитории. Иначе вам потом придётся достаточно сложно подключать системы Continuous integration.
 
 ## Как сдавать задачи
 
 1. Инициализируйте на своём компьютере пустой Git-репозиторий.
-1. Добавьте в него готовый файл [.gitignore](../.gitignore).
+1. Добавьте в него готовый файл [.gitignore](https://github.com/netology-code/aqa-homeworks/blob/master/.gitignore).
 1. Добавьте в этот же каталог код вашего приложения, код проекта для решения первой и второй задачи вы можете найти в [репозитории с учебным кодом](https://github.com/netology-code/aqa-code/tree/master/api-ci/rest).
 1. Сделайте необходимые коммиты.
 1. Создайте публичный репозиторий на GitHub и свяжите свой локальный репозиторий с удалённым.
 1. Сделайте пуш — удостоверьтесь, что ваш код появился на GitHub.
-1. Выполните интеграцию проекта с Github Actions ([инструкция](../github-actions-integration)) или Appveyor ([инструкция](https://github.com/netology-code/aqa-homeworks/tree/master/api-ci#appveyor)) на выбор, удостоверьтесь что автотесты в CI выполняются.
+1. Выполните интеграцию проекта с Github Actions ([инструкция](https://github.com/netology-code/aqa-homeworks/tree/master/github-actions-integration)) или Appveyor ([инструкция](https://github.com/netology-code/aqa-homeworks/tree/master/api-ci#appveyor)) на выбор, удостоверьтесь что автотесты в CI выполняются.
 1. Ссылку на ваш проект отправьте в личном кабинете на сайте [netology.ru](https://netology.ru).
 1. Задачи, отмеченные, как необязательные, можно не сдавать, это не повлияет на получение зачёта.
 
