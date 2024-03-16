@@ -1,7 +1,7 @@
 [![Java CI with Gradle](https://github.com/LevVolkov/-PostmanEcho/actions/workflows/gradle.yml/badge.svg)](https://github.com/LevVolkov/-PostmanEcho/actions/workflows/gradle.yml)
 [![Состояние сборки](https://ci.appveyor.com/api/projects/status/99jc29keb2pyc1mj?svg=true)](https://ci.appveyor.com/project/LevVolkov/postmanecho)
 
-# 2.2 Домашнее задание к занятию «1.2. Тестирование API, CI Задача 3 »
+# 2.2 Домашнее задание к занятию «1.2. Тестирование API, CI » Задача 3.
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
