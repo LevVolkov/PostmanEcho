@@ -271,7 +271,7 @@ dependencies {
 
 В каталоге `resources` в `src/test` и должен лежать файл схемы.    
 
-![](https://github.com/netology-code/aqa-homeworks/blob/master/web/pic/schema.png)
+![](https://github.com/netology-code/aqa-homeworks/blob/master/api-ci/)
 
 #### Шаг 3. Проверка ответа сервиса на соответсвие схеме    
 
